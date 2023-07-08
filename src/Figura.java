@@ -1,2 +1,6 @@
-package PACKAGE_NAME;public interface Figura {
+public interface Figura {
+public double calcularArea();
+public double CalcularPerimetro();
+
 }
+
